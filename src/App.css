@@ -1,7 +1,8 @@
 .App {
   text-align: center;
-  background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(63,9,121,1) 35%, rgba(9,83,98,1) 92%);
+  /* background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(63,9,121,1) 35%, rgba(9,83,98,1) 92%); */
+background-image: url('./images/bg1.jpg');
 }
 .navbar {
   background: url('./images/banner.jpg');
@@ -10,7 +11,8 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(63,9,121,1) 35%, rgba
   background-size: 23%;
   background-repeat: no-repeat;
   background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 41%, rgba(9,9,121,1) 63%, rgba(0,212,255,1) 100%);
+background: linear-gradient(90deg, rgb(0, 0, 0) 20%, rgba(9,9,121,1) 65%, rgba(0,212,255,1) 100%);
+/* position: fixed; */
   }
 
 .App-logo {
